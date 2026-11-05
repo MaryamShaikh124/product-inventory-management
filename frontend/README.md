@@ -50,7 +50,7 @@ Each product contains:
 ### 1. Clone the Repository
 
 ```bash
-git clone YOUR_GITHUB_REPOSITORY_URL
+git clone https://github.com/MaryamShaikh124/product-inventory-management
 ```
 
 ### 2. Backend Setup
